@@ -10,18 +10,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Studying **Systems Engineering** at UNADECA, Costa Rica
-- 💼 Currently working as **IT Support Technician** at UNADECA's Telematics Dept.
-- 🌐 Building full stack apps with **React, TypeScript, PHP & Supabase**
-- 🔧 Passionate about **networking, Linux servers & clean code**
-- 🌎 Based in **San José, Costa Rica**
-- 📖 Fun fact: I proactively approached a restaurant owner and landed my first freelance project!
+- Studying **Systems Engineering** at UNADECA, Costa Rica
+- Currently working as **IT Support Technician** at UNADECA's Telematics Dept.
+- Building full stack apps with **React, TypeScript, PHP & Supabase**
+- Passionate about **networking, Linux servers & clean code**
+- Based in **San José, Costa Rica**
+- Fun fact: I proactively approached a restaurant owner and landed my first freelance project!
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 
@@ -45,18 +45,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DxniZvl&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DxniZvl&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
