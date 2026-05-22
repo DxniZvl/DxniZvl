@@ -12,12 +12,10 @@
 
 ### About Me
 
-- Studying **Systems Engineering** at UNADECA, Costa Rica
-- Currently working as **IT Support Technician** at UNADECA's Telematics Dept.
+- Studying **Systems Engineering**
+- Currently working as **IT Support Technician**
 - Building full stack apps with **React, TypeScript, PHP & Supabase**
 - Passionate about **networking, Linux servers & clean code**
-- Based in **San José, Costa Rica**
-- Fun fact: I proactively approached a restaurant owner and landed my first freelance project!
 
 ---
 
